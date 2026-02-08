@@ -1,6 +1,6 @@
 # My Kanban Board
 
-Under construction.
+SSR Kanban board application with drag-and-drop functionality for organizing tasks into customizable columns, color-coded labels, and advanced filters. Allows you to create, edit, and delete cards and columns with real-time search, dark mode, and session-based data persistence.
 
 
 ## ScreenShots
